@@ -1,11 +1,8 @@
 {
   "name": "sample-electron-app",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "src/main.js",
-  "repository": {
-    "type" : "git",
-    "url" : "https://github.com/talyguryn/self-updating-test-app.git"
-  },
+  "repository": "https://github.com/talyguryn/sample-electron-app.git",
   "author": "Taly <vitalik7tv@yandex.ru>",
   "license": "MIT",
   "scripts": {
