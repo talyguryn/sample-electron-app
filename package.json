@@ -1,6 +1,6 @@
 {
   "name": "sample-electron-app",
-  "version": "0.0.28-rc.0",
+  "version": "0.0.28-rc.1",
   "main": "src/main.js",
   "repository": "https://github.com/talyguryn/sample-electron-app.git",
   "author": "Taly <vitalik7tv@yandex.ru>",
